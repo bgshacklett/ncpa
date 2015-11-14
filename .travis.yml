@@ -6,4 +6,4 @@ python:
 install: "pip install -r requirements.txt --use-mirrors"
 
 # Run Tests
-script run_tests
+script: run_tests
